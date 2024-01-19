@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    margin-top: 5rem;
+}
+.title {
+    font-size: 2rem;
+    background-color: rgb(182, 182, 182);
+    margin: 0px 150px;
+    padding: 20px 0px;
+    border-radius: 30px;
+}
+.title:hover {
+    background-color: grey;
+}
+.form {
+    background-color: rgb(182, 182, 182);
+    margin: 50px;
+    padding: 40px 10px;
+    border-radius: 30px;
+}
+.form:hover {
+    background-color: grey;
+}
+.email {
+    padding-left: 39px;
+    margin-bottom: 25px;
+    font-size: 25px;
+}
+.pass {
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+#btn {
+    font-size: 1.5rem;
+}
